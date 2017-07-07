@@ -34,7 +34,9 @@ for state in ["not pinin'","no more", "a stiff", "bereft of life"]:
 for i in range(1,13):
     for j in range(1,13):
         print("{1} times {0} is {2}".format(i, j, i*j))
-    print("================")
+    print("=" * 50)
     print('')
 
 #lists = arrays
+
+# while loops
